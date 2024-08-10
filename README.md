@@ -63,10 +63,5 @@ python detect_dual_tracking.py --weights 'yolov9-c.pt' --source 'your video.mp4'
 - Output file will be created in the ```working-dir/runs/detect/obj-tracking``` with original filename
 
 
-### Watch the Complete Step by Step Explanation
 
-- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=Jx6oLBfDxRo)
-
-
-[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/Jx6oLBfDxRo/0.jpg)]([https://www.youtube.com/watch?v=Jx6oLBfDxRo](https://www.youtube.com/watch?v=Jx6oLBfDxRo))
 
